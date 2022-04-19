@@ -1,2 +1,2 @@
 # Surya
-First website that I created without aid.
+The Surya website is housing website that I had to create for my College assignment and is the first website that I created by myself without the aid of a guide or teacher. It includes many basic features of HTML, as well as a small amount of CSS for a more refined appearance. The website contains many images depicting the various houses and rooms, a dashboard on every page for easy navigation, links to external sites and contact forms, an interactive map on the homepage, tables displaying the various opening times and reviews, and finally relevant text on every page related to the page's primary function.
